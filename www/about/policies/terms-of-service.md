@@ -38,7 +38,7 @@ these Terms.
 1. The Gratipay Model and General Rules
 
   1. The Service is a platform to enable Teams of Gratipay Participants to
-     receive payments to fund Open Work. Open Work means that the Team provides
+     receive payments to fund **Open Work**. Open Work means that the Team provides
 a clear path for any individual to voluntarily begin contributing to the Team's
 work and to share in any revenue the Team generates. Some examples of Teams
 performing Open Work include an open source software project that pays
