@@ -38,60 +38,60 @@ these Terms.
 1. The Gratipay Model and General Rules
 
   1. The Service is a platform to enable Teams of Gratipay Participants to
-     receive payments to fund **Open Work**. Open Work means that the Team provides
+     receive payments to fund **Open Work. Open Work means that the Team provides
 a clear path for any individual to voluntarily begin contributing to the Team's
 work and to share in any revenue the Team generates. Some examples of Teams
 performing Open Work include an open source software project that pays
 contributors, or a hackerspace that pays individuals to teach classes or manage
-its operations.
+its operations.**
 
   1. The Participant who establishes a Team is its Owner. Teams may optionally
      have other Members.
 
-  1. When you establish a Team on the Service to fund your Open Work, you agree
-     that payments will be used exclusively to support the Open Work described
+  1. When you establish a Team on the Service to fund your **Open Work**, you agree
+     that payments will be used exclusively to support the **Open Work** described
 in your Team's profile.
 
-  1. When you make a payment to a Team, it is a payment to fund the Open Work
+  1. When you make a payment to a Team, it is a payment to fund the **Open Work**
      the Team provides. You understand and acknowledge that your payment does
 not entitle you personally to receive any goods or services from the Team,
 unless the Team explicitly offers those things to Participants.
 
   1. By accepting a payment from a Participant, a Team forms an agreement with
-     that Participant to perform the Open Work described in its profile. The
+     that Participant to perform the **Open Work described in its profile.** The
 Service is a platform to facilitate this agreement. Gratipay is not a party to
 the agreement, and is not responsible to either the Team or the Participant if
 either party breaches the terms of the agreement (e.g. if the Team fails to
 provide the promised services).
 
   1. Gratipay is not obligated to provide refunds under any circumstance. Teams
-     are responsible for producing the Open Work they offer. Gratipay does not
+     are responsible for producing the **Open Work** they offer. Gratipay does not
 hold funds on behalf of Teams, and does not warrant or guarantee that Teams
-will provide the Open Work they promise.
+will provide the **Open Work** they promise.
 
-1. Payroll Rules
+1. Take-What-You-Want Payout Rules
 
-  1. Teams can use the Service's Payroll feature to automatically divide
+  1. Teams can use the Service's Take-What-You-Want Payouts feature to automatically divide
      incoming payments among Team Members, according to the allocation set by
 the Owner and/or Members.
 
-  1. Gratipay does not determine how a Team's Payroll is allocated and is not
+  1. Gratipay does not determine how a Team's Take-What-You-Want Payouts are allocated and is not
      responsible for how Teams internally distribute payments. The agreement
-between Team Members and Owners regarding the allocation of payments is solely
+between Team Members and Owners regarding the allocation of payouts is solely
 between those parties.
 
 1. Rules for Gratipay Teams
 
-  1. Teams may accept payments on the Service only for Open Work, meaning that
+  1. Teams may accept payments on the Service only for **Open Work, meaning that
      they provide a clear path for any individual to voluntarily begin
 contributing to the Team's work, and to share in any revenue the Team
-generates.
+generates.**
 
   1. A Team can only begin receiving payments from Participants once it has
      provided a working withdrawal mechanism for receiving payments (e.g. bank
 account information).
 
-  1. Teams and their Open Work must be consistent with Gratipay's [Brand
+  1. Teams and their **Open Work** must be consistent with Gratipay's [Brand
      Guidelines](http://inside.gratipay.com/big-picture/brand/) and Acceptable
 Use Policy.
 
@@ -109,7 +109,7 @@ take any other action regarding a Team belong solely to Gratipay.
   1. Gratipay does not take any fee from payments made by Participants to
      Teams. Gratipay and the Service are funded through the Service itself, by
 voluntary contributions from Gratipay Participants and Teams who wish to fund
-our own Open Work. To contribute to Gratipay, please [visit Gratipay's Team
+our own **Open Work**. To contribute to Gratipay, please [visit Gratipay's Team
 page](/Gratipay/).
 
   1. You are responsible for paying any third-party fees associated with your
@@ -118,8 +118,8 @@ page](/Gratipay/).
   1. You are responsible for paying any taxes and withholdings associated with
      your use of the Service. Team Owners, and not Gratipay, are responsible
 for compliance with all laws, as well as any taxes and withholding
-requirements, applicable to payments made to Team Members (whether through the
-Payroll feature or otherwise), including without limitation payroll tax,
+requirements, applicable to payouts made to Team Members (whether through the
+Take-What-You-Want Payout feature or otherwise), including without limitation **payroll** tax,
 unemployment insurance, and worker compensation insurance payments. Team Owners
 are also responsible for providing any required tax and other documentation to
 employees, independent contractors, tax authorities, or any other person.
