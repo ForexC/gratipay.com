@@ -48,26 +48,25 @@ its operations.**
   1. The Participant who establishes a Team is its Owner. Teams may optionally
      have other Members.
 
-  1. When you establish a Team on the Service to fund your **Open Work**, you agree
-     that payments will be used exclusively to support the **Open Work** described
-in your Team's profile.
+  1. When you establish a Team on the Service, you agree that payments will be 
+    used exclusively to support the work described in your Team's profile.
 
-  1. When you make a payment to a Team, it is a payment to fund the **Open Work**
+  1. When you make a payment to a Team, it is a payment to fund the work
      the Team provides. You understand and acknowledge that your payment does
 not entitle you personally to receive any goods or services from the Team,
 unless the Team explicitly offers those things to Participants.
 
   1. By accepting a payment from a Participant, a Team forms an agreement with
-     that Participant to perform the **Open Work described in its profile.** The
+     that Participant to perform the work described in its profile. The
 Service is a platform to facilitate this agreement. Gratipay is not a party to
 the agreement, and is not responsible to either the Team or the Participant if
 either party breaches the terms of the agreement (e.g. if the Team fails to
 provide the promised services).
 
   1. Gratipay is not obligated to provide refunds under any circumstance. Teams
-     are responsible for producing the **Open Work** they offer. Gratipay does not
+     are responsible for producing the work they offer. Gratipay does not
 hold funds on behalf of Teams, and does not warrant or guarantee that Teams
-will provide the **Open Work** they promise.
+will provide the work they promise.
 
 1. Take-What-You-Want Payout Rules
 
@@ -91,7 +90,7 @@ generates.**
      provided a working withdrawal mechanism for receiving payments (e.g. bank
 account information).
 
-  1. Teams and their **Open Work** must be consistent with Gratipay's [Brand
+  1. Teams and their work must be consistent with Gratipay's [Brand
      Guidelines](http://inside.gratipay.com/big-picture/brand/) and Acceptable
 Use Policy.
 
@@ -119,7 +118,7 @@ page](/Gratipay/).
      your use of the Service. Team Owners, and not Gratipay, are responsible
 for compliance with all laws, as well as any taxes and withholding
 requirements, applicable to payouts made to Team Members (whether through the
-Take-What-You-Want Payout feature or otherwise), including without limitation **payroll** tax,
+Take-What-You-Want Payout feature or otherwise), including without limitation payroll tax,
 unemployment insurance, and worker compensation insurance payments. Team Owners
 are also responsible for providing any required tax and other documentation to
 employees, independent contractors, tax authorities, or any other person.
