@@ -38,12 +38,7 @@ these Terms.
 1. The Gratipay Model and General Rules
 
   1. The Service is a platform to enable Teams of Gratipay Participants to
-     receive payments to fund **Open Work. Open Work means that the Team provides
-a clear path for any individual to voluntarily begin contributing to the Team's
-work and to share in any revenue the Team generates. Some examples of Teams
-performing Open Work include an open source software project that pays
-contributors, or a hackerspace that pays individuals to teach classes or manage
-its operations.**
+     receive payments to fund development of a product or service ("work").
 
   1. The Participant who establishes a Team is its Owner. Teams may optionally
      have other Members.
@@ -81,10 +76,7 @@ between those parties.
 
 1. Rules for Gratipay Teams
 
-  1. Teams may accept payments on the Service only for **Open Work, meaning that
-     they provide a clear path for any individual to voluntarily begin
-contributing to the Team's work, and to share in any revenue the Team
-generates.**
+  1. Teams may accept payments on the Service only for a defined product or service ("work").
 
   1. A Team can only begin receiving payments from Participants once it has
      provided a working withdrawal mechanism for receiving payments (e.g. bank
@@ -108,7 +100,7 @@ take any other action regarding a Team belong solely to Gratipay.
   1. Gratipay does not take any fee from payments made by Participants to
      Teams. Gratipay and the Service are funded through the Service itself, by
 voluntary contributions from Gratipay Participants and Teams who wish to fund
-our own **Open Work**. To contribute to Gratipay, please [visit Gratipay's Team
+our own [Open Work](http://www.opencompany.org/). To contribute to Gratipay, please [visit Gratipay's Team
 page](/Gratipay/).
 
   1. You are responsible for paying any third-party fees associated with your
