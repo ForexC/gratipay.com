@@ -63,15 +63,15 @@ provide the promised services).
 hold funds on behalf of Teams, and does not warrant or guarantee that Teams
 will provide the work they promise.
 
-1. Take-What-You-Want Payout Rules
+1. Payout Rules
 
-  1. Teams can use the Service's Take-What-You-Want Payouts feature to automatically divide
+  1. Teams can use the Service's Payouts feature to automatically divide
      incoming payments among Team Members, according to the allocation set by
 the Owner and/or Members.
 
-  1. Gratipay does not determine how a Team's Take-What-You-Want Payouts are allocated and is not
+  1. Gratipay does not determine how a Payouts are allocated and is not
      responsible for how Teams internally distribute payments. The agreement
-between Team Members and Owners regarding the allocation of payouts is solely
+between Team Members and Owners regarding the allocation of Payouts is solely
 between those parties.
 
 1. Rules for Gratipay Teams
@@ -109,8 +109,8 @@ page](/Gratipay/).
   1. You are responsible for paying any taxes and withholdings associated with
      your use of the Service. Team Owners, and not Gratipay, are responsible
 for compliance with all laws, as well as any taxes and withholding
-requirements, applicable to payouts made to Team Members (whether through the
-Take-What-You-Want Payout feature or otherwise), including without limitation payroll tax,
+requirements, applicable to Payouts made to Team Members (whether through the
+Payouts feature or otherwise), including without limitation payroll tax,
 unemployment insurance, and worker compensation insurance payments. Team Owners
 are also responsible for providing any required tax and other documentation to
 employees, independent contractors, tax authorities, or any other person.
