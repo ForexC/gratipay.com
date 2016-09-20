@@ -6,7 +6,7 @@ These Terms of Service ("Terms") are an agreement between you, a user
 Gratipay. When you register as a Gratipay Participant, you agree to be bound by
 these Terms.
 
-If you have any questions about these terms, please contact us:
+If you have any questions about these Terms, please contact us:
 
 Gratipay, LLC
 716 Park Road
@@ -35,85 +35,97 @@ or damage arising from your failure to keep your account secure.
 your legal guardian must consent to your use and must agree to be bound by
 these Terms.
 
-1. The Gratipay Model and General Rules
+1. General Rules
 
-  1. The Service is a platform to enable Teams of Gratipay Participants to
-     receive payments to fund development of a product or service ("work").
+  1. The Service is a platform to facilitate payments for goods or services
+     ("Work").
 
-  1. The Participant who establishes a Team is its Owner. Teams may optionally
-     have other Members.
+  1. A Participant may establish a Project on the Service. The Participant who
+     establishes a Project is its Owner. Projects may optionally have other
+Members. The Owner is also a Member.
 
-  1. When you establish a Team on the Service, you agree that payments will be 
-    used exclusively to support the work described in your Team's profile.
+  1. A Project may receive payments from Participants for Work provided by the
+     Project. When you establish a Project on the Service, you agree that
+payments will be used exclusively to support the Work described in your
+Project's profile.
 
-  1. When you make a payment to a Team, it is a payment to fund the work
-     the Team provides. You understand and acknowledge that your payment does
-not entitle you personally to receive any goods or services from the Team,
-unless the Team explicitly offers those things to Participants.
+  1. A Project may make payments to its Members for Work provided to the
+     Project by the Members. When you become a Member of a Project, you agree
+that payments to you by the Project are made exclusively because of your
+contribution to the Work decribed in the Project's profile.
 
-  1. By accepting a payment from a Participant, a Team forms an agreement with
-     that Participant to perform the work described in its profile. The
+1. Payments from Participants to Projects
+
+  1. Projects can use the Service to receive payments from Participants.
+
+  1. When you make a payment to a Project, it is a payment to fund the Work the
+     Project provides. You understand and acknowledge that your payment does
+not entitle you personally to receive any goods or services from the Project,
+unless the Project explicitly offers those things to Participants.
+
+  1. By accepting a payment from a Participant, the Project forms an agreement
+     with that Participant to perform the work described in its profile. The
 Service is a platform to facilitate this agreement. Gratipay is not a party to
-the agreement, and is not responsible to either the Team or the Participant if
-either party breaches the terms of the agreement (e.g. if the Team fails to
-provide the promised services).
+the agreement, and is not responsible to either the Project or the Participant
+if either party breaches the terms of the agreement (e.g. if the Project fails
+to provide the promised services).
 
-  1. Gratipay is not obligated to provide refunds under any circumstance. Teams
-     are responsible for producing the work they offer. Gratipay does not
-hold funds on behalf of Teams, and does not warrant or guarantee that Teams
-will provide the work they promise.
+  1. Gratipay is not obligated to provide refunds under any circumstance.
+     Projects are responsible for producing the work they offer. Gratipay does
+not hold funds on behalf of Projects, and does not warrant or guarantee that
+Projects will provide the work they promise.
 
-1. Payout Rules
+1. Payments from Projects to Members
 
-  1. Teams can use the Service's Payouts feature to automatically divide
-     incoming payments among Team Members, according to the allocation set by
-the Owner and/or Members.
+  1. Projects can use the Service to distribute payments to Project Members.
 
-  1. Gratipay does not determine how Payouts are allocated and is not
-     responsible for how Teams internally distribute payments. The agreement
-between Team Members and Owners regarding the allocation of Payouts is solely
-between those parties.
+  1. When a Project makes a payment to you, it is a payment to fund the Work
+     you contribute to the Project.
 
-1. Rules for Gratipay Teams
+  1. Gratipay does not determine how payments are allocated and is not
+     responsible for how Projects internally distribute payments. The agreement
+between the Project Owner and other Members regarding the allocation of
+payments is solely between those parties.
 
-  1. Teams may accept payments on the Service only for a defined product or service ("work").
+1. Additional Rules for Gratipay Projects
 
-  1. A Team can only begin receiving payments from Participants once it has
-     provided a working withdrawal mechanism for receiving payments (e.g. bank
-account information).
+  1. A Project can only begin receiving payments from Participants once the
+     Owner has provided a working withdrawal mechanism for receiving payments
+(e.g. bank account information).
 
-  1. Teams and their work must be consistent with Gratipay's [Brand
+  1. Projects and their Work must be consistent with Gratipay's [Brand
      Guidelines](http://inside.gratipay.com/big-picture/brand/) and Acceptable
 Use Policy.
 
-  1. Gratipay reserves the right to reject, suspend, or remove a Team at any
+  1. Gratipay reserves the right to reject, suspend, or remove a Project at any
      time, and for any reason.
 
-  1. Establishing a Team on Gratipay involves an application and approval
+  1. Establishing a Project on Gratipay involves an application and approval
      process. As part of this process, the Gratipay community will have the
-opportunity to publicly evaluate and provide commentary about the Team.
+opportunity to publicly evaluate and provide commentary about the Project.
 However, all decisions regarding whether to accept, reject, suspend, remove, or
-take any other action regarding a Team belong solely to Gratipay.
+take any other action regarding a Project belong solely to Gratipay.
 
 1. Fees and Taxes
 
   1. Gratipay does not take any fee from payments made by Participants to
-     Teams. Gratipay and the Service are funded through the Service itself, by
-voluntary contributions from Gratipay Participants and Teams who wish to fund
-our own [Open Work](http://www.opencompany.org/). To contribute to Gratipay, please [visit Gratipay's Team
-page](/Gratipay/).
+     Projects, or by Projects to Members. Gratipay and the Service are funded
+through the Service itself, by voluntary contributions from Gratipay
+Participants who wish to fund our own Work. To contribute to Gratipay, please
+[visit Gratipay's Project page](/Gratipay/).
 
   1. You are responsible for paying any third-party fees associated with your
      use of the Service, such as credit card and bank fees.
 
   1. You are responsible for paying any taxes and withholdings associated with
-     your use of the Service. Team Owners, and not Gratipay, are responsible
-for compliance with all laws, as well as any taxes and withholding
-requirements, applicable to Payouts made to Team Members (whether through the
-Payouts feature or otherwise), including without limitation payroll tax,
-unemployment insurance, and worker compensation insurance payments. Team Owners
-are also responsible for providing any required tax and other documentation to
-employees, independent contractors, tax authorities, or any other person.
+     your use of the Service. In particular, Project Owners, and not Gratipay,
+are responsible for compliance with all laws, as well as any taxes and
+withholding requirements, applicable to payments made to Project Members
+(whether through the Service or otherwise), including without limitation
+payroll tax, unemployment insurance, and worker compensation insurance
+payments.  Project Owners are also responsible for providing any required tax
+and other documentation to employees, independent contractors, tax authorities,
+or any other person.
 
 1. Content Accessible on the Service
 
@@ -139,8 +151,8 @@ content. However, Gratipay has no obligation to monitor, filter, or disable
 access to any content, and shall not be responsible if you encounter
 objectionable content by using the Service.
 
-  1. The Service, including Participant and Team profiles, may contain links to
-     other websites. When you access third-party websites linked to from the
+  1. The Service, including Participant and Project profiles, may contain links
+     to other websites. When you access third-party websites linked to from the
 Service, you do so at your own risk. Gratipay does not review, control, or
 endorse those sites.
 
@@ -220,15 +232,15 @@ agreement](https://www.braintreepayments.com/legal/bank-agreement-us).
 
 1. Nonprofits and Charities using Gratipay
 
-  1. If your Team is associated with a nonprofit organization, soliciting
+  1. If your Project is associated with a nonprofit organization, soliciting
      payments on Gratipay may subject you to certain state laws regarding
 charitable solicitations, including various registration, reporting, and audit
 requirements. You are solely responsible for compliance with these and any
 other applicable law or regulation.
 
   1. Gratipay makes no representation or warranty regarding the tax-exempt
-     status of any Team, or the tax-deductible status of any payment made via
-the Service.
+     status of any Project, or the tax-deductible status of any payment made
+via the Service.
 
 1. Copyright Policy
 
