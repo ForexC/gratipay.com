@@ -42,7 +42,7 @@ these Terms.
 
   1. A Participant may establish a Project on the Service. The Participant who
      establishes a Project is its Owner. Projects may optionally have other
-Members. The Owner is a Member.
+Participants as Members.
 
   1. A Project may receive payments from Participants for Work provided by the
      Project. When you establish a Project on the Service, you agree that
@@ -64,11 +64,11 @@ not entitle you personally to receive any goods or services from the Project,
 unless the Project explicitly offers those things to Participants.
 
   1. By accepting a payment from a Participant, the Project forms an agreement
-     with that Participant to perform the Work described in its profile. The
-Service is a platform to facilitate this agreement. Gratipay is not a party to
-the agreement, and is not responsible to either the Project or the Participant
-if either party breaches the terms of the agreement (e.g. if the Project fails
-to provide the promised services).
+     with that Participant to perform the Work described in the Project's
+profile. The Service is a platform to facilitate this agreement. Gratipay is
+not a party to the agreement, and is not responsible to either the Project or
+the Participant if either party breaches the terms of the agreement (e.g. if
+the Project fails to provide the promised services).
 
   1. Gratipay is not obligated to provide refunds under any circumstance.
      Projects are responsible for producing the work they offer. Gratipay does
@@ -79,12 +79,19 @@ Projects will provide the work they promise.
 
   1. Projects can use the Service to distribute payments to Project Members.
 
-  1. When a Project makes a payment to you, it is a payment to fund the Work
-     you contribute to the Project.
+  1. When you receive a payment from a Project, it is a payment to fund the
+     Work you contribute to the Project.
+
+  1. By accepting a payment from a Project, the Member forms an agreement with
+     that Project to contribute to the Work described in the Project's profile.
+The Service is a platform to facilitate this agreement. Gratipay is not a party
+to the agreement, and is not responsible to either the Project or the Member if
+either party breaches the terms of the agreement (e.g. if the Member fails to
+provide the promised services).
 
   1. Gratipay does not determine how payments are allocated and is not
      responsible for how Projects internally distribute payments. The agreement
-between the Project Owner and other Members regarding the allocation of
+between the Project's Owner and its Members regarding the allocation of
 payments is solely between those parties.
 
 1. Additional Rules for Gratipay Projects
@@ -123,7 +130,7 @@ are responsible for compliance with all laws, as well as any taxes and
 withholding requirements, applicable to payments made to Project Members
 (whether through the Service or otherwise), including without limitation
 payroll tax, unemployment insurance, and worker compensation insurance
-payments.  Project Owners are also responsible for providing any required tax
+payments. Project Owners are also responsible for providing any required tax
 and other documentation to employees, independent contractors, tax authorities,
 or any other person.
 
@@ -351,7 +358,7 @@ SERVICE; (ii) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICE,
 INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF
 OTHER PARTICIPANTS OR THIRD PARTIES; (iii) ANY CONTENT OBTAINED FROM THE
 SERVICE; OR (iv) UNAUTHORIZED ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS
-OR CONTENT.  IN NO EVENT SHALL THE AGGREGATE LIABILITY OF GRATIPAY OR ITS
+OR CONTENT. IN NO EVENT SHALL THE AGGREGATE LIABILITY OF GRATIPAY OR ITS
 AFFILIATES EXCEED THE GREATER OF ONE HUNDRED U.S. DOLLARS (U.S. $100.00) OR THE
 AMOUNT YOU PAID GRATIPAY, IF ANY, IN THE PAST SIX MONTHS FOR THE SERVICE GIVING
 RISE TO THE CLAIM.
