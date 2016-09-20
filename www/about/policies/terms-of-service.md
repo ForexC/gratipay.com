@@ -69,7 +69,7 @@ will provide the work they promise.
      incoming payments among Team Members, according to the allocation set by
 the Owner and/or Members.
 
-  1. Gratipay does not determine how a Payouts are allocated and is not
+  1. Gratipay does not determine how Payouts are allocated and is not
      responsible for how Teams internally distribute payments. The agreement
 between Team Members and Owners regarding the allocation of Payouts is solely
 between those parties.
