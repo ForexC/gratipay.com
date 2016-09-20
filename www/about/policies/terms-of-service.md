@@ -42,7 +42,7 @@ these Terms.
 
   1. A Participant may establish a Project on the Service. The Participant who
      establishes a Project is its Owner. Projects may optionally have other
-Members. The Owner is also a Member.
+Members. The Owner is a Member.
 
   1. A Project may receive payments from Participants for Work provided by the
      Project. When you establish a Project on the Service, you agree that
@@ -64,7 +64,7 @@ not entitle you personally to receive any goods or services from the Project,
 unless the Project explicitly offers those things to Participants.
 
   1. By accepting a payment from a Participant, the Project forms an agreement
-     with that Participant to perform the work described in its profile. The
+     with that Participant to perform the Work described in its profile. The
 Service is a platform to facilitate this agreement. Gratipay is not a party to
 the agreement, and is not responsible to either the Project or the Participant
 if either party breaches the terms of the agreement (e.g. if the Project fails
@@ -110,9 +110,9 @@ take any other action regarding a Project belong solely to Gratipay.
 
   1. Gratipay does not take any fee from payments made by Participants to
      Projects, or by Projects to Members. Gratipay and the Service are funded
-through the Service itself, by voluntary contributions from Gratipay
-Participants who wish to fund our own Work. To contribute to Gratipay, please
-[visit Gratipay's Project page](/Gratipay/).
+through the Service itself, by voluntary payments from Gratipay Participants
+who wish to fund our own Work. To contribute to Gratipay, please [visit
+Gratipay's Project page](/Gratipay/).
 
   1. You are responsible for paying any third-party fees associated with your
      use of the Service, such as credit card and bank fees.
