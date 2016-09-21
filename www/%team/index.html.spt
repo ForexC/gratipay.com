@@ -20,7 +20,6 @@ is_team_owner = not user.ANON and team.owner == user.participant.username
           href="https://gratipay.com/{{ team.slug }}/" />
     <meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
     <meta name="twitter:card" content="summary" />
-    <meta name="og:image" content="{{ website.asset('gratipay.opengraph.png') }}" />
     <meta name="og:url" content="https://gratipay.com/{{ team.slug }}/" />
     <meta name="og:type" content="profile" />
     <meta name="og:title" content="{{ team.name }}" />
