@@ -41,31 +41,31 @@ these Terms.
      ("Work").
 
   1. A Participant may establish a Project on the Service. The Participant who
-     establishes a Project is its Owner. Projects may optionally have other
-Participants as Members.
+     establishes a Project is the "Project Owner". Projects may optionally have other
+Participants as "Project Members."
 
   1. A Project may receive payments from Participants for Work provided by the
-     Project. When you establish a Project on the Service, you agree that
-payments will be used exclusively to support the Work described in your
+     Project ("Project Work"). When you establish a Project on the Service, you agree that
+payments will be used exclusively to support the Project Work described in your
 Project's profile.
 
-  1. A Project may make payments to its Members for Work provided to the
-     Project by the Members. When you become a Member of a Project, you agree
+  1. When you become a Project Member, you agree
 that payments to you by the Project are made exclusively because of your
-contribution to the Work decribed in the Project's profile.
+contribution ("Project Tasks") to the Project Work decribed in the Project's profile. A Project may make 
+payments to its Project Members for Project Tasks performed by the Project Members. 
 
 1. Payments from Participants to Projects
 
   1. Projects can use the Service to receive payments from Participants.
 
-  1. When you make a payment to a Project, it is a payment to fund the Work the
-     Project provides. You understand and acknowledge that your payment does
+  1. When you make a payment to a Project, it is a payment to fund the Project Work. 
+  You understand and acknowledge that your payment does
 not entitle you personally to receive any goods or services from the Project,
 unless the Project explicitly offers those things to Participants.
 
   1. By accepting a payment from a Participant, the Project forms an agreement
-     with that Participant to perform the Work described in the Project's
-profile. The Service is a platform to facilitate this agreement. Gratipay is
+     with that Participant to perform the Project Work. 
+     The Service is a platform to facilitate this agreement. Gratipay is
 not a party to the agreement, and is not responsible to either the Project or
 the Participant if either party breaches the terms of the agreement (e.g. if
 the Project fails to provide the promised services).
@@ -75,32 +75,32 @@ the Project fails to provide the promised services).
 not hold funds on behalf of Projects, and does not warrant or guarantee that
 Projects will provide the work they promise.
 
-1. Payments from Projects to Members
+1. Payments from Projects to Project Members
 
   1. Projects can use the Service to distribute payments to Project Members.
 
   1. When you receive a payment from a Project, it is a payment to fund the
-     Work you contribute to the Project.
+     Project Tasks you contribute to the Project.
 
-  1. By accepting a payment from a Project, the Member forms an agreement with
-     that Project to contribute to the Work described in the Project's profile.
+  1. By accepting a payment from a Project, the Project Member forms an agreement with
+     that Project to contribute to the Project Work described in the Project's profile.
 The Service is a platform to facilitate this agreement. Gratipay is not a party
-to the agreement, and is not responsible to either the Project or the Member if
-either party breaches the terms of the agreement (e.g. if the Member fails to
+to the agreement, and is not responsible to either the Project or the Project Member if
+either party breaches the terms of the agreement (e.g. if the Project Member fails to
 provide the promised services).
 
   1. Gratipay does not determine how payments are allocated and is not
      responsible for how Projects internally distribute payments. The agreement
-between the Project's Owner and its Members regarding the allocation of
+between the Project's Owner and Project Members regarding the allocation of
 payments is solely between those parties.
 
 1. Additional Rules for Gratipay Projects
 
   1. A Project can only begin receiving payments from Participants once the
-     Owner has provided a working withdrawal mechanism for receiving payments
+     Project Owner has provided a working withdrawal mechanism for receiving payments
 (e.g. bank account information).
 
-  1. Projects and their Work must be consistent with Gratipay's [Brand
+  1. Projects and Project Work must be consistent with Gratipay's [Brand
      Guidelines](http://inside.gratipay.com/big-picture/brand/) and Acceptable
 Use Policy.
 
@@ -116,7 +116,7 @@ take any other action regarding a Project belong solely to Gratipay.
 1. Fees and Taxes
 
   1. Gratipay does not take any fee from payments made by Participants to
-     Projects, or by Projects to Members. Gratipay and the Service are funded
+     Projects, or by Projects to Project Members. Gratipay and the Service are funded
 through the Service itself, by voluntary payments from Gratipay Participants
 who wish to fund our own Work. To contribute to Gratipay, please [visit
 Gratipay's Project page](/Gratipay/).
