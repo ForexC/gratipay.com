@@ -44,59 +44,25 @@ these Terms.
      establishes a Project is the "Project Owner". Projects may optionally have other
 Participants as "Project Members."
 
-  1. A Project may receive payments from Participants for Work provided by the
+  1. A Participant may give money to a Project. A Participant who gives money to a Project is a "Giver."
+
+1.  Obligations of Project Owners
+
+  1. A Project may receive payments from Givers for Work provided by the
      Project ("Project Work"). When you establish a Project on the Service, you agree that
 payments will be used exclusively to support the Project Work described in your
 Project's profile.
 
-  1. When you become a Project Member, you agree
-that payments to you by the Project are made exclusively because of your
-contribution ("Project Tasks") to the Project Work decribed in the Project's profile. A Project may make 
-payments to its Project Members for Project Tasks performed by the Project Members. 
+  1. Projects can use the Service to receive payments from Givers.
 
-1. Payments from Participants to Projects
-
-  1. Projects can use the Service to receive payments from Participants.
-
-  1. When you make a payment to a Project, it is a payment to fund the Project Work. 
-  You understand and acknowledge that your payment does
-not entitle you personally to receive any goods or services from the Project,
-unless the Project explicitly offers those things to Participants.
-
-  1. By accepting a payment from a Participant, the Project forms an agreement
-     with that Participant to perform the Project Work. 
+  1. By accepting a payment from a Giver, the Project forms an agreement
+     with that Giver to perform the Project Work. 
      The Service is a platform to facilitate this agreement. Gratipay is
 not a party to the agreement, and is not responsible to either the Project or
-the Participant if either party breaches the terms of the agreement (e.g. if
+the Giver if either party breaches the terms of the agreement (e.g. if
 the Project fails to provide the promised services).
 
-  1. Gratipay is not obligated to provide refunds under any circumstance.
-     Projects are responsible for producing the work they offer. Gratipay does
-not hold funds on behalf of Projects, and does not warrant or guarantee that
-Projects will provide the work they promise.
-
-1. Payments from Projects to Project Members
-
-  1. Projects can use the Service to distribute payments to Project Members.
-
-  1. When you receive a payment from a Project, it is a payment to fund the
-     Project Tasks you contribute to the Project.
-
-  1. By accepting a payment from a Project, the Project Member forms an agreement with
-     that Project to contribute to the Project Work described in the Project's profile.
-The Service is a platform to facilitate this agreement. Gratipay is not a party
-to the agreement, and is not responsible to either the Project or the Project Member if
-either party breaches the terms of the agreement (e.g. if the Project Member fails to
-provide the promised services).
-
-  1. Gratipay does not determine how payments are allocated and is not
-     responsible for how Projects internally distribute payments. The agreement
-between the Project's Owner and Project Members regarding the allocation of
-payments is solely between those parties.
-
-1. Additional Rules for Gratipay Projects
-
-  1. A Project can only begin receiving payments from Participants once the
+  1. A Project can only begin receiving payments from Givers once the
      Project Owner has provided a working withdrawal mechanism for receiving payments
 (e.g. bank account information).
 
@@ -113,11 +79,47 @@ opportunity to publicly evaluate and provide commentary about the Project.
 However, all decisions regarding whether to accept, reject, suspend, remove, or
 take any other action regarding a Project belong solely to Gratipay.
 
+1.  Obligations of Project Members
+
+  1. Projects can use the Service to distribute payments to Project Members.
+
+  1. When you receive a payment from a Project, it is a payment to fund the
+     Project Tasks you contribute to the Project.
+     
+       1. When you become a Project Member, you agree
+that payments to you by the Project are made exclusively because of your
+contribution ("Project Tasks") to the Project Work decribed in the Project's profile. A Project may make 
+payments to its Project Members for Project Tasks performed by the Project Members. 
+
+  1. By accepting a payment from a Project, the Project Member forms an agreement with
+     that Project to contribute to the Project Work described in the Project's profile.
+The Service is a platform to facilitate this agreement. Gratipay is not a party
+to the agreement, and is not responsible to either the Project or the Project Member if
+either party breaches the terms of the agreement (e.g. if the Project Member fails to
+provide the promised services).
+
+  1. Gratipay does not determine how payments are allocated and is not
+     responsible for how Projects internally distribute payments. The agreement
+between the Project's Owner and Project Members regarding the allocation of
+payments is solely between those parties.
+
+1.  Obligations of Givers
+
+  1. When you make a payment to a Project, it is a payment to fund the Project Work. 
+  You understand and acknowledge that your payment does
+not entitle you personally to receive any goods or services from the Project,
+unless the Project explicitly offers those things to Givers.
+
+  1. Gratipay is not obligated to provide refunds under any circumstance.
+     Projects are responsible for producing the work they offer. Gratipay does
+not hold funds on behalf of Projects, and does not warrant or guarantee that
+Projects will provide the work they promise.
+
 1. Fees and Taxes
 
-  1. Gratipay does not take any fee from payments made by Participants to
+  1. Gratipay does not take any fee from payments made by Givers to
      Projects, or by Projects to Project Members. Gratipay and the Service are funded
-through the Service itself, by voluntary payments from Gratipay Participants
+through the Service itself, by voluntary payments from Givers
 who wish to fund our own Work. To contribute to Gratipay, please [visit
 Gratipay's Project page](/Gratipay/).
 
