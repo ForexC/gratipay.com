@@ -18,22 +18,22 @@ legal@gratipay.com
 
   1. When you register for the Service, you agree to provide Gratipay with
      complete and accurate registration information. You are responsible for
-keeping your account information, including your contact and payment
-information, up to date. Gratipay takes our Participants' privacy seriously. We
-will only use or share your information and Content as described in our
-[Privacy Policy](/about/policies/privacy), which is incorporated into these
-Terms.
+    keeping your account information, including your contact and payment
+    information, up to date. Gratipay takes our Participants' privacy seriously. We
+    will only use or share your information and Content as described in our
+    [Privacy Policy](/about/policies/privacy), which is incorporated into these
+    Terms.
 
   1. You are responsible for maintaining the security of your account
      information, including your authentication credentials. You agree to
-notify Gratipay immediately of any actual or suspected loss, theft, or
-unauthorized use of your credentials. Gratipay shall not be liable for any loss
-or damage arising from your failure to keep your account secure.
+    notify Gratipay immediately of any actual or suspected loss, theft, or
+    unauthorized use of your credentials. Gratipay shall not be liable for any loss
+    or damage arising from your failure to keep your account secure.
 
   1. You may only use the Service if you are 13 years old or older, and you
      represent to us that you are 13 or older. If you are under the age of 18,
-your legal guardian must consent to your use and must agree to be bound by
-these Terms.
+    your legal guardian must consent to your use and must agree to be bound by
+    these Terms.
 
 1. General Rules
 
@@ -42,66 +42,60 @@ these Terms.
 
   1. A Participant may establish a Project on the Service. The Participant who
      establishes a Project is the "Project Owner". Projects may optionally have other
-Participants as "Project Members."
+    Participants as "Project Members."
 
   1. A Participant may give money to a Project. A Participant who gives money to a Project is a "Giver."
 
 1.  Obligations of Project Owners
 
-  1. A Project may receive payments from Givers for Work provided by the
+  1. A Project can use the Service to receive payments from Givers for Work provided by the
      Project ("Project Work"). When you establish a Project on the Service, you agree that
-payments will be used exclusively to support the Project Work described in your
-Project's profile.
-
-  1. Projects can use the Service to receive payments from Givers.
+    payments will be used exclusively to support the Project Work described in your
+    Project's profile.
 
   1. By accepting a payment from a Giver, the Project forms an agreement
      with that Giver to perform the Project Work. 
      The Service is a platform to facilitate this agreement. Gratipay is
-not a party to the agreement, and is not responsible to either the Project or
-the Giver if either party breaches the terms of the agreement (e.g. if
-the Project fails to provide the promised services).
+    not a party to the agreement, and is not responsible to either the Project or
+    the Giver if either party breaches the terms of the agreement (e.g. if
+    the Project fails to provide the promised services).
 
   1. A Project can only begin receiving payments from Givers once the
      Project Owner has provided a working withdrawal mechanism for receiving payments
-(e.g. bank account information).
+    (e.g. bank account information).
 
   1. Projects and Project Work must be consistent with Gratipay's [Brand
      Guidelines](http://inside.gratipay.com/big-picture/brand/) and Acceptable
-Use Policy.
+    Use Policy. 
 
   1. Gratipay reserves the right to reject, suspend, or remove a Project at any
      time, and for any reason.
 
   1. Establishing a Project on Gratipay involves an application and approval
      process. As part of this process, the Gratipay community will have the
-opportunity to publicly evaluate and provide commentary about the Project.
-However, all decisions regarding whether to accept, reject, suspend, remove, or
-take any other action regarding a Project belong solely to Gratipay.
+     opportunity to publicly evaluate and provide commentary about the Project.
+     However, all decisions regarding whether to accept, reject, suspend, remove, or
+     take any other action regarding a Project belong solely to Gratipay.
 
 1.  Obligations of Project Members
 
   1. Projects can use the Service to distribute payments to Project Members.
 
-  1. When you receive a payment from a Project, it is a payment to fund the
-     Project Tasks you contribute to the Project.
-     
-       1. When you become a Project Member, you agree
-that payments to you by the Project are made exclusively because of your
-contribution ("Project Tasks") to the Project Work decribed in the Project's profile. A Project may make 
-payments to its Project Members for Project Tasks performed by the Project Members. 
+  1. When you become a Project Member, you agree that payments to you by the 
+  Project are made exclusively because of your contribution ("Project Tasks") 
+  to the Project Work decribed in the Project's profile. 
 
   1. By accepting a payment from a Project, the Project Member forms an agreement with
      that Project to contribute to the Project Work described in the Project's profile.
-The Service is a platform to facilitate this agreement. Gratipay is not a party
-to the agreement, and is not responsible to either the Project or the Project Member if
-either party breaches the terms of the agreement (e.g. if the Project Member fails to
-provide the promised services).
+     The Service is a platform to facilitate this agreement. Gratipay is not a party
+     to the agreement, and is not responsible to either the Project or the Project Member if
+     either party breaches the terms of the agreement (e.g. if the Project Member fails to
+     provide the promised services).
 
   1. Gratipay does not determine how payments are allocated and is not
      responsible for how Projects internally distribute payments. The agreement
-between the Project's Owner and Project Members regarding the allocation of
-payments is solely between those parties.
+     between the Project's Owner and Project Members regarding the allocation of
+     payments is solely between those parties.
 
 1.  Obligations of Givers
 
